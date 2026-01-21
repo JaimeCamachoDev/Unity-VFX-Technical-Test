@@ -1,6 +1,6 @@
 <header>
+  
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
 
 _**Unity VFX recruitment test focused on technical understanding, artistic execution, optimization and professional delivery.**_
 
@@ -47,3 +47,6 @@ Each pillar represents **25% of the final score**:
 
 - This is not a speed test. Clarity, intention and decision-making matter more than quantity.
 - The final result should be functional, readable and explainable.
+
+- ![Movie_001](https://github.com/user-attachments/assets/8ae21af1-7ffb-447a-83fb-59f046fc055c)
+
