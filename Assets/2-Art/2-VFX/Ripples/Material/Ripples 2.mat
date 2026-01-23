@@ -30,6 +30,14 @@ Material:
         m_Texture: {fileID: 2800000, guid: 800e061692ff7a84e887f439d3364410, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _RoundNormal:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RoundNormal_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_6a88f4a589e941069d1c8d1c29414df9_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 7a4e5df7107a3d34988d107e673c740b, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -44,6 +52,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_cab6748c8ce448fa8c11b101aa448b6d_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: 800e061692ff7a84e887f439d3364410, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2D:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture2DAsset_40c83a6c6a4c4836847bd27cf870bb66_Out_0_Texture2D:
@@ -78,13 +90,18 @@ Material:
     - _Blend: 0
     - _CastShadows: 0
     - _Cull: 2
+    - _Depth: 0.1
     - _DstBlend: 10
+    - _Exponent: 0
+    - _FallofArea: 90
     - _Float: 0.15
     - _Float_1: 0.836
     - _Float_2: 0.554
     - _Metallic: 0.165
+    - _Mix: 0.005
+    - _MotionSpeed: 5
     - _Noise_Scale: 100
-    - _Normal_Intensity: 0.01
+    - _Normal_Intensity: 0.02
     - _Normal_Stength: 10
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -96,6 +113,7 @@ Material:
     - _SrcBlend: 5
     - _Surface: 1
     - _Tile: -1
+    - _Tiling: 10
     - _Twist: -0.35
     - _Vignete: -0.1
     - _Wave: 5
@@ -108,6 +126,8 @@ Material:
     - _Color_1: {r: 1, g: 1, b: 1, a: 0}
     - _MAS: {r: 0.2, g: 0.08, b: 1, a: 0}
     - _Position: {r: 0.58, g: 0.44, b: 0, a: 0}
+    - _PositionOffset: {r: -0.781, g: 0.582, b: 0, a: 0}
+    - _UV_Centered: {r: -0.58, g: -0.44, b: 0, a: 0}
     - _Vector2: {r: 0, g: 0.7, b: 0, a: 0}
     - _Vector2_1: {r: -1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
