@@ -10,6 +10,8 @@ _**Unity VFX recruitment test focused on technical understanding, artistic execu
 
 This repository contains a technical and artistic VFX test for Unity developers.
 
+## Evaluation Criteria
+
 The goal of this test is to evaluate a junior VFX candidate across four equally weighted pillars:
 - 25% Technical understanding
 - 25% Artistic execution
@@ -33,7 +35,7 @@ This single task allows evaluation of all four pillars in a realistic and effici
 
 ---
 
-## Evaluation Criteria
+
 
 Each pillar represents **25% of the final score**:
 - Technical
