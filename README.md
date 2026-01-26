@@ -11,10 +11,10 @@ _**Unity VFX recruitment test focused on technical understanding, artistic execu
 This repository contains a technical and artistic VFX test for Unity developers.
 
 The goal of this test is to evaluate a junior VFX candidate across four equally weighted pillars:
-- Technical understanding
-- Artistic execution
-- Optimization mindset
-- Organization, communication and delivery
+- 25% Technical understanding
+- 25% Artistic execution
+- 25% Optimization mindset
+- 25% Organization, communication and delivery
 
 The test is designed to reflect real production scenarios in Unity URP.
 
