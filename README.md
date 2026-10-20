@@ -6,8 +6,6 @@ _**Unity VFX recruitment test focused on technical understanding, artistic execu
 
 </header>
 
-
-
 ## Evaluation Criteria
 
 The goal of this test is to evaluate a junior VFX candidate across four equally weighted pillars:
@@ -38,3 +36,22 @@ This single task allows evaluation of all four pillars in a realistic and effici
 
 - ![Movie_001](https://github.com/user-attachments/assets/8ae21af1-7ffb-447a-83fb-59f046fc055c)
 
+## Requisitos
+
+* Unity **6000.2.8f1**
+* Render Pipeline: Universal Render Pipeline (URP)
+* Assets de terceros incluidos (no redistribuibles): ArchVizPRO_Interior_Vol.8_URP, Fake Interiors FREE
+
+## Contenido
+
+* **Shader Graph:** `Ripples`, `Ripples V2`, `Water`
+* **Shaders HLSL:** `Add_CenterGlow`, `BloodPoolShader`, `Water`
+* **Scripts:** `UpdateShaderPosition`
+* **Prefabs:** `Ripples`, `Ripples 1`, `Ripples 2`, `Ripples 3`, `Water (1)`, `WaterFall`
+* **Escenas:** `Assets/3-Scenes/Main Example.unity`, `Assets/3-Scenes/Main.unity`
+
+## Uso
+
+1. Clona el repositorio y añádelo en Unity Hub (*Add project from disk*).
+2. Ábrelo con Unity **6000.2.8f1**.
+3. Abre la escena `Assets/3-Scenes/Main Example.unity` y pulsa **Play**.
