@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.jaimecamacho.discovernotes": "1.2.0",
+    "com.jaimecamachodev.discovernotes": "1.4.0",
     "com.unity.feature.characters-animation": "1.0.0",
     "com.unity.recorder": "5.1.4",
     "com.unity.render-pipelines.universal": "17.2.0"
@@ -17,7 +17,8 @@
       "name": "JaimeCamachoDev",
       "url": "https://registry.npmjs.org",
       "scopes": [
-        "com.jaimecamacho"
+        "com.jaimecamacho",
+        "com.jaimecamachodev"
       ]
     }
   ]
